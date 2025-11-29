@@ -1,0 +1,5 @@
+requests
+aiohttp
+reflex
+lxml
+beautifulsoup4
